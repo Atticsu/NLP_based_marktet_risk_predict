@@ -1,0 +1,2 @@
+# NLP_based_marktet_risk_predict
+通过NLP技术分析新闻和社交媒体中的市场情绪，预测证券市场的系统性风险
